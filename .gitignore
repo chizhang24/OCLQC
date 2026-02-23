@@ -20,3 +20,7 @@ stream_loss.html
 .ob-jupyter/
 
 .DS_Store 
+
+# data 
+data/
+
