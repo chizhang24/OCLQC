@@ -24,3 +24,6 @@ stream_loss.html
 # data 
 data/
 
+*.pdf
+
+*.mp4  
